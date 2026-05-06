@@ -52,6 +52,10 @@ Entities:
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4630b323-ec0b-4a23-bea2-696dfa410f6b" />
+
+
+
 ## Phase 2 — Redis Virality Engine & Atomic Locks
 
 ### Virality Score
